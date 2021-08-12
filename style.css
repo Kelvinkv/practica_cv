@@ -1,0 +1,32 @@
+body {
+    background: white;
+    margin:2px;
+    padding: 0;
+}
+
+body ul {
+    padding: 0;
+}
+
+section {
+    border: 2px solid green;
+    margin: 5px;
+}
+
+h2  {
+    text-decoration: underline;
+}
+
+footer {
+    border: 2px solid blue;
+}
+
+/*Clases*/
+
+.image img {
+    width: 200px;
+    height: 200px;
+    border: solid 2px orange;
+    margin: 4px;
+
+}
