@@ -1,4 +1,4 @@
-/*Globla Styles */
+/*Global Styles */
 
 /*
 * {
@@ -52,7 +52,7 @@ footer {
     height: 120px;
 }
 
-#cuadro {
+main .cuadro {
     position: absolute;
     top: 80px;
     left: 250px;
